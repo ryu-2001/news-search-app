@@ -56,6 +56,7 @@
 
 ## ファイル構成
 
+```
 news-search-app/
 ├── frontend/           # フロントエンド関連ファイル
 │   ├── index.html      # メインHTML
@@ -66,6 +67,7 @@ news-search-app/
 ├── package.json        # Node.jsパッケージ設定
 ├── .env                # APIキー設定 (環境変数)
 └── README.md           # このファイル
+```
 
 ## 注意事項
 
